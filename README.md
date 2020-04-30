@@ -13,22 +13,22 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 
 | Assigment (task)  | Outcome & Results |
 | ------------- | ------------- |
-| * How many trips have been recorded total during the chosen period?  | Content Cell  |
-| By what percentage has total ridership grown?  | Content Cell  |
-| How has the proportion of short-term customers and annual subscribers changed?  | Content Cell  |
-| * What are the peak hours in which bikes are used during summer months?  | Content Cell  |
-| * What are the peak hours in which bikes are used during winter months?  | Content Cell  |
-| * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)  | Content Cell  |
-| * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)  | Content Cell  |
-| * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)  | Content Cell  |
-| * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)  | Content Cell  |
-| * Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)  | Content Cell  |
-| * Today, what is the gender breakdown of active participants (Male v. Female)?  | Content Cell  |
-| * How effective has gender outreach been in increasing female ridership over the timespan?  | Content Cell  |
-| * How does the average trip duration change by age?  | Content Cell  |
-| * What is the average distance in miles that a bike is ridden?  | Content Cell  |
-| * Which bikes (by ID) are most likely due for repair or inspection in the timespan?  | Content Cell  |
-| * How variable is the utilization by bike ID?  | Content Cell  |
+| 1* How many trips have been recorded total during the chosen period?  | Content Cell  |
+| 2* By what percentage has total ridership grown?  | Content Cell  |
+| 3* How has the proportion of short-term customers and annual subscribers changed?  | Content Cell  |
+| 4* What are the peak hours in which bikes are used during summer months?  | Content Cell  |
+| 5* What are the peak hours in which bikes are used during winter months?  | Content Cell  |
+| 6* Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)  | Content Cell  |
+| 7* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)  | Content Cell  |
+| 8* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)  | Content Cell  |
+| 9* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)  | Content Cell  |
+| 10* Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)  | Content Cell  |
+| 11* Today, what is the gender breakdown of active participants (Male v. Female)?  | Content Cell  |
+| 12* How effective has gender outreach been in increasing female ridership over the timespan?  | Content Cell  |
+| 13* How does the average trip duration change by age?  | Content Cell  |
+| 14* What is the average distance in miles that a bike is ridden?  | Content Cell  |
+| 15* Which bikes (by ID) are most likely due for repair or inspection in the timespan?  | Content Cell  |
+| 16* How variable is the utilization by bike ID?  | Content Cell  |
 
 ## Next as a professional and over achiever data science
 
