@@ -40,8 +40,8 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 | --- | --- |
 | **Basic:** | * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top. |
 | **Advanced:** | * A dynamic map that shows how each station's popularity changes over time (by month and year). Again, with zip code data overlaid on the map. |
-| **Requirement 1** | * The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring. |
-| **Requirement 2** | * The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis. |
+| **1-Requirement** | * The dashboards should be accompanied with an analysis explaining why the phenomena may be occuring. |
+| **2-Requirement** | * The map you choose should also be accompanied by a write-up unveiling any trends that were noticed during your analysis. |
 
 ## Finally, create your final presentation**
 
