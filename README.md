@@ -20,7 +20,6 @@ Your task in this assignment is to aggregate the data found in the Citi Bike Tri
 | * What are the peak hours in which bikes are used during winter months?  | Content Cell  |
 | * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)  | Content Cell  |
 | * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)  | Content Cell  |
-| * Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)  | Content Cell  |
 | * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why?)  | Content Cell  |
 | * Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)  | Content Cell  |
 | * Today, what is the gender breakdown of active participants (Male v. Female)?  | Content Cell  |
