@@ -1,1 +1,21 @@
+## Discovered Phenomenon Visualizations
+* The submitted Tableau workbook includes all of the following:
+✓ 4-10 total visualizations
+✓ A total of 2 dashboards (1 for each phenomenon)
+✓ Data is cleaned (i.e. No outliers or bad data)
+✓ Visualizations can logically be used to discover the solved phenomenon (i.e. they are not just random visualizations)
 
+## City Official Requested Maps (Grade based on the map the student chose to make.)
+Basic:
+* Visualization includes all of the following:
+✓ Maps all bike stations
+✓ Station markers indicate popularity in some way (color, size,etc.)
+✓ Sections are marked by zip code 
+✓ A write-up on the trends that were discovered while making the map
+Advanced:
+* Visualization includes all of the following:
+✓ Maps all bike stations
+✓ Station markers indicate popularity in some way (color, size, etc.)
+✓ Ability to change marker data based on month and year
+✓ Sections are marked by zip code
+✓ A write-up on the trends that were discovered while making the map
