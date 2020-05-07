@@ -1,0 +1,73 @@
+Master docuemnt with all:datasets (10)
+
+File: Citibike-Analysis-type-2019.twbx
+Link to google drive: https://drive.google.com/open?id=1tvJ3hXGT3XSobDvgICvhppt7WTpQfO_I
+
+
+To download the clean data by pieces :
+
+File: CitiBike-Tripdata-Union-Season.tfl
+This files contains the clean flow to obtain the dataset for winter and summer
+Link to google drive: https://drive.google.com/open?id=1oz_OEoV64w8Z_W3frdQzr9Hl52UXy6tx
+
+File: CitiBike-Tripdata-Union1b.tfl
+This file contains the flow to clean the data (all steps)
+Link to google drive: https://drive.google.com/open?id=1kKYev-3xmbXb1VAxbj7t7ESQkgCUeG6Y
+
+
+File: Output_citi_bike_2019.tde
+This file contains the data clean without subscriber and customer columns
+Link to google drive: https://drive.google.com/open?id=1I3GC9ns-hGFbs-8EVNKTbNk16Y3EjMW4
+
+File:Output_citi_bike_with_type_2019.tde
+This file contains the data clean for customer and subscribers
+Link to google drive: https://drive.google.com/open?id=1VuLqpO9HfuJacgqrab35ajRA2c3TtPX-
+
+File: Output-citi_bike_february2019.tde
+This file contains
+Link to google drive: https://drive.google.com/open?id=1mbSKasUV7-W7t7NXt8v9Pl0MLcQ-TTgp
+
+File:Output-citi_bike_january2019.tde
+This file contains
+Link to google drive: https://drive.google.com/open?id=1O_fniIL-YkOSpvBQ6FGiPAmqosytFMiy
+
+
+File: Output-citi_bike_June2019.tde
+This file contains
+Link to google drive: https://drive.google.com/open?id=1p9kb8MY5W9qm9as9RtH5lAs2dAOz5n4e
+
+
+File: Output-citi_bike_July2019.tde
+This file contains
+Link to google drive: https://drive.google.com/open?id=1Pftb-6gfB6fSl3A9mG7Lc3k538iHrHbB
+
+
+File:Output-citi_bike_August2019.tde
+This file contains data clean for August 2019
+Link to google drive: https://drive.google.com/open?id=1AUpN1F1zcsTQhTwvghu1puiBoxANwk7v 
+
+
+File: Output-citi_bike_december2019.tde
+This file contains
+Link to google drive: https://drive.google.com/open?id=1W99KrJjArhC9QnQQJx8Z7vBD9aiFZmVw
+
+
+File: Output-citi_bike_summer.tde
+This file contains
+Link to google drive: https://drive.google.com/open?id=1BR8_bMwoix5mpKpYhlpvalYPgBWMCxFU
+
+
+File: Output-citi_bike_winter.tde
+This file contains
+Link to google drive: https://drive.google.com/open?id=1A-a0Caxc1RPcnkFge7G-WAbGuxBxjbEN
+
+
+
+
+
+
+
+
+
+
+
